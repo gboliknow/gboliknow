@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @gboliknow
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Omogbolahan
+- 👀 I’m interested in coding majorly app development
 - 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on frontend jobs
 - 📫 reach me on whatsapp +2348145298207
+- Ask me anything about flutter
 
 <!---
 gboliknow/gboliknow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
