@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, majorly app development
 - 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on frontend jobs
-- Learning MERN
+- Learning Solidity
 - 📫 reach me on whatsapp +2348145298207
 - Ask me anything about flutter
 - Ask me somethings about python
