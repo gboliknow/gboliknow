@@ -5,7 +5,7 @@
 - Learning Solidity
 - 📫 reach me on whatsapp +2348145298207
 - Ask me anything about flutter
-- Ask me somethings about python
+- Ask me stuff about python
 
 <!---
 gboliknow/gboliknow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
