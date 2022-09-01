@@ -5,7 +5,7 @@ gboliknow/gboliknow is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Adekoye Gbolahan</h1>
+<h1 align="center">Hi 👋, I'm Gbolahan Adekoye</h1>
 <h3 align="center">A passionate cross platform mobile developer(flutter). 👀 I’m currently perfecting app development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gboliknow" alt="gboliknow" /></a> </p>
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://twitter.com/flutter_dude" target="blank"><img src="https://img.shields.io/twitter/follow/flutter_dude?logo=twitter&style=for-the-badge" alt="flutter_dude" /></a> </p>
 
 
-- 🔭 I’m currently working on ---------------------, it's a blank template for now
+- 🔭 I’m currently working on perfecting flutter and testing cloud development
 - 👀 I’m interested in coding, majorly app development
 - 💞️ I’m looking to collaborate on frontend jobs
 -  📫 reach me on whatsapp +2348145298207
