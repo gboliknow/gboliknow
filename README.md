@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://twitter.com/flutter_dude" target="blank"><img src="https://img.shields.io/twitter/follow/flutter_dude?logo=twitter&style=for-the-badge" alt="flutter_dude" /></a> </p>
 
 
-- 🔭 I’m currently working on perfecting flutter and testing cloud development
+- 🔭 I’m currently working on perfecting flutter 
 - 👀 I’m interested in coding, majorly app development
 - 💞️ I’m looking to collaborate on frontend jobs
 -  📫 reach me on whatsapp +2348145298207
