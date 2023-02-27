@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on perfecting flutter 
 - 👀 I’m interested in coding, majorly app development
--  👀 I’m interested in ios development
+-  👀 I'm currently playing around with native IOS , using swift ,storyboard and swift UI
 - 💞️ I’m looking to collaborate on frontend jobs
 -  📫 reach me on whatsapp +2348145298207
 - Ask me anything about flutter
