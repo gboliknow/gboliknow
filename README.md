@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📝 I regularly write articles on [https://medium.com/@gboliknow](https://medium.com/@gboliknow)
 
-- 💬 Ask me about **flutter, python**
+- 💬 Ask me about **flutter, python, swift(still learning)**
 
 - 📫 How to reach me **adekoyegbolahan001@gmail.com**
 
