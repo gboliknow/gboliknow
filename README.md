@@ -29,7 +29,7 @@
 ### Backend Development
 - **Languages**: Go (Golang), Python
 - **Databases**: PostgreSQL, Firebase
-- **Tools**: Git, Docker, pgx (PostgreSQL for Go)
+- **Tools**: Git, Docker, pgx (PostgreSQL for Go), Gin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
