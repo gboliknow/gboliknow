@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/flutter_dude" target="blank"><img src="https://img.shields.io/twitter/follow/flutter_dude?logo=twitter&style=for-the-badge" alt="flutter_dude" /></a> </p>
 
-- 🔭 I’m currently working on perfecting **Flutter** with over **5 years of experience**
+- 🔭 I’m currently working on perfecting **Flutter** with over **6 years of experience**
 - 🌱 I’ve been expanding my skills in **backend development** using **Go** (Golang), focusing on building RESTful APIs and scalable services.
 - 👀 I’m also exploring **native iOS development** using **Swift**, **SwiftUI**, and **storyboard** for building sleek user interfaces.
 - 💻 I'm passionate about crafting efficient mobile and backend systems, from **app development with Flutter** to writing **fast and reliable Go code**.
